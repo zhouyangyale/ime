@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/btn1.png</file>
+        <file>images/btn2.png</file>
+        <file>images/btn3.png</file>
+        <file>images/change.png</file>
+        <file>font/FontAwesome.otf</file>
+        <file>dict/pinyinEx.ini</file>
+        <file>dict/dict_pinyin.dat</file>
+    </qresource>
+</RCC>
